@@ -8,6 +8,7 @@
 // @match        https://www.youtube.com/feed/channels?*
 // @grant        none
 // @license      BSD-2-Clause
+// @homepage     https://github.com/knu/userjs-youtube_subscriptions_opml
 // ==/UserScript==
 
 (function () {
