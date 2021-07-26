@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Download YouTube Subscriptions OPML
 // @namespace    https://idaemons.org/
-// @version      0.1
+// @version      0.2
 // @author       Akinori MUSHA
 // @description  adds a "Download OPML" button to your YouTube Channel List page
 // @match        https://www.youtube.com/feed/channels
