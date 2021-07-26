@@ -24,7 +24,7 @@
       );
       const observer = window.setInterval(() => {
         const spinner = document.querySelector("paper-spinner-lite");
-        if (spinner.getAttribute("aria-hidden") !== "true") return;
+        if (spinner && spinner.getAttribute("aria-hidden") !== "true") return;
 
         const currentHeight = document.documentElement.scrollHeight;
         if (currentHeight !== lastHeight) {
